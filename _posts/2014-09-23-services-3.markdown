@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: calendar.jpg
+category: Advice
+title: Keep Track of Deadlines
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+When you receive your syllabus, put all of your assignment deadlines into a calendar so that you can keep track of the different projects and deadlines as they come up!
